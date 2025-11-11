@@ -1,4 +1,4 @@
-# Hello Base – Message Board dApp (sans terminal)
+# Hello Base  –  Message Board dApp (sans terminal)
 
 Un tableau de messages on-chain pour **Base Sepolia (testnet)**. Tu peux publier des messages (≤ 280 caractères) et les lister depuis l'UI web (HTML/JS + ethers via CDN).
 
